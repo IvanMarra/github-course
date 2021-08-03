@@ -6,4 +6,6 @@ Uma nova linha de teste.
  <br>
 Uma quarta linha de teste para validar o branch
 <br>
-Uma quinta linha com tags html
+Uma quinta linha com tags html 
+<br>
+Uma sexta Linha para continuar testando o git
