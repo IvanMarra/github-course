@@ -6,4 +6,4 @@ Uma nova linha de teste.
  <br>
 Uma quarta linha de teste para validar o branch
 <br>
-Uma quinta linha
+Uma quinta linha com tags html
